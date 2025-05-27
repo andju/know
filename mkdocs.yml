@@ -72,8 +72,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - ezlinks:
-      wikilinks: true
+  - obsidian-bridge
   - awesome-pages
   - tags
   - mkdocs-simple-hooks:
