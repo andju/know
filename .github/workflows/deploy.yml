@@ -39,7 +39,7 @@ jobs:
           # Define excluded folders that should never be published
           EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
           
-          find . -type f -exec grep -l "publish on andju-knows: true" {} \; | while IFS= read -r file; do
+          find . -type f -exec grep -l "publish on andju-know: true" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
             SKIP=0
             for folder in "${EXCLUSION[@]}"; do
