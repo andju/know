@@ -1,3 +1,4 @@
+# Create a digital garden
 #publish-me
 This tutorial is based on the work of [Daniel Nazarian](https://www.danielnazarian.com/blog/posts/0d7a916e-cd8f-4931-82a5-f206ab1a938e/), who did a great job in developing a digital garden based on Obsidian and GitHub Pages. He could have done a better job in documenting it beginner-friendly 😉.
 
