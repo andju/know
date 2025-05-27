@@ -72,7 +72,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - ezlinks
+  - ezlinks:
+      wikilinks: true
   - awesome-pages
   - tags
   - mkdocs-simple-hooks:
