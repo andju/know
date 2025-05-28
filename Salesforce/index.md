@@ -41,7 +41,7 @@ This code allows you to get an Excel-function (in your current workbook) to do t
 > 3. Copy & Paste the VBA code
 > 4. Now you have a new Excel function (`=FixID()`) available to perform the conversion
 ### Browser
-The bookmarklet described on this [page](https://help.salesforce.com/s/articleView?id=000385066&type=1) allows you to convert a single ID:
+The bookmarklet described on this [page](https://help.salesforce.com/s/articleView?id=000385066&type=1) converts a single ID. Add a bookmark in your browser and enter the following code as URL:
 ```js
 javascript:(function(){
 var input=prompt('Enter 15-character ID');
@@ -67,11 +67,13 @@ var output;
 prompt('18-character ID:',output);
 })();
 ```
+## Mass-upload attachments
+To attach a lot of files to a lot of records, you need to clarify whether they should be uploaded as *attachments* or *files*. The difference is described [here](https://www.dataimporter.io/blog/the-difference-between-files-attachments-in-salesforce) (tl;dr: Files are the modern solution). The easiest way is to check which related list is on the record page layout.
 
-Just add a new bookmark to your browser and enter the code as the URL.
-
+- [Attachments](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_attachments.htm) are uploaded into the `Attachment` object
+- [Files](https://help.salesforce.com/s/articleView?id=000382372&type=1) are uploaded into the `ContentVersion` object and related through the `ContentDocumentLink` object
 ## Reset security token by URL
 If the option to reset your security token is not available in your settings (e.g. in a Sandbox), you can use the following URL:
-```http
+```
 https://<YourDomain>.lightning.force.com/_ui/system/security/ResetApiTokenEdit?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DPersonalInfo&setupid=ResetApiToken
 ```
