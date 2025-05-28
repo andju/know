@@ -1,3 +1,3 @@
 # Welcome
 
-Welcome to my [[Digital gardening|digital garden]]!
+Welcome to my [digital garden](./Software/Internet/Digital gardening.md)!
