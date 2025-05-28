@@ -6,7 +6,7 @@ publish on andju-know: true
 Each record in Salesforce can be identified with an unique id - of which two versions exist: One (case-sensitive) with 15-digits and one (case-insensitive) with 18-digits.
 ### Excel
 This [page](https://www.gammone.com/en/programming/how-to-convert-salesforce-id-from-15-to-18-chars) describes the algorithm to convert a 15-digit into an 18-digit one. It also provides code implementations for different languages - a.o. Visual Basic for Applications (VBA):
-```vb
+```vb.net
 Function FixID(InID As String) As String
 	If Len(InID) = 18 Then
 		FixID = InID
