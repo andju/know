@@ -1,11 +1,12 @@
 ---
 publish on andju-know: true
 ---
-# HowTo's
+# Salesforce
+Helpful tips and tricks
 ## Convert Salesforce IDs
-Each record in Salesforce can be identified with an unique id - of which two versions exist: One (case-sensitive) with 15-digits and one (case-insensitive) with 18-digits.
+Each record in Salesforce can be identified with an unique id - of which two versions exist: One (case-sensitive) with 15-characters and one (case-insensitive) with 18-characters.
 ### Excel
-This [page](https://www.gammone.com/en/programming/how-to-convert-salesforce-id-from-15-to-18-chars) describes the algorithm to convert a 15-digit into an 18-digit one. It also provides code implementations for different languages - a.o. Visual Basic for Applications (VBA):
+This [page](https://www.gammone.com/en/programming/how-to-convert-salesforce-id-from-15-to-18-chars) describes the algorithm to convert a 15-character ID into its 18-character equivalent. It also provides code implementations for different languages - a.o. Visual Basic for Applications (VBA):
 ```vb.net
 Function FixID(InID As String) As String
 	If Len(InID) = 18 Then
