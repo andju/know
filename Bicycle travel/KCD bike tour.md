@@ -1,5 +1,5 @@
 ---
-publish on andju-know: false
+publish on andju-know: true
 ---
 # Kingdom Come Deliverance
 
