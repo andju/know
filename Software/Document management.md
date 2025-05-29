@@ -3,6 +3,7 @@ publish on andju-know: true
 ---
 # Document management
 Even with more and more (electronic) paper coming in, I was initially skeptical whether I need a document management: I actually was happy with sorting pdfs into a folder structure. I had to try [paperless-ngx](https://docs.paperless-ngx.com/) to understand how much faster (especially searching and checking documents) and easier it is.
+
 ## Installation
 
 > [!hint] PostgreSQL
@@ -29,7 +30,27 @@ I recommend the following OCR Settings:
 
 ## Features
 
+### Batch scan
+	
+Add the following entries to `docker-compose.env`:
+```
+PAPERLESS_CONSUMER_ENABLE_BARCODES=true
+PAPERLESS_CONSUMER_BARCODE_SCANNER=ZXING
+```
+
+### Double-sided documents
+
+Add the following entries to `docker-compose.env`:
+```
+PAPERLESS_CONSUMER_ENABLE_COLLATE_DOUBLE_SIDED=true
+PAPERLESS_CONSUMER_RECURSIVE=true
+```
+
+### Auto-login
+### Other
+
 - This [article](https://piep.tech/posts/automatic-password-removal-in-paperless-ngx/) describes how to automatically remove passwords while consuming new documents.
+
 ## Maintenance
 ### Backup and restore
 Include the entire paperless-ngx folder in your backup strategy. The documents (subfolder: media) and the classification model (subfolder: data) are automatically included.
@@ -42,21 +63,24 @@ To restore the backup, extract the file `pgbackup.zip` in the folder `export` an
 ```
 podman compose exec -T webserver document_importer ../export --data-only
 ```
+
 ### Database (DB) upgrade
 New versions of PostgreSQL are not compatible with old data files. Therefore you need to backup, delete and restore the data when upgrading to a new version.
 
 > [!caution] Simultaneous upgrade of paperless-ngx
 > Do not upgrade paperless-ngx and the DB in the same step! A new version of paperless might change the DB structure - which could prevent restoring your data. It is recommended to run `podman compose pull` and `podman compose up -d` **before** changing the `docker-compose.yml` file.
 
-1. Backup the database as described in [[#Backup and restore]]
+1. Backup the database as described in "Backup and restore"
 2. Stop and remove the containers: `podman compose down`
 3. Delete the volume containing the database (usually paperless_pgdata) in Podman
 4. Update the `docker-compose.yml` file (number after `docker.io/library/postgres`)
 5. Update the image: `podman compose pull`
 6. Start paperless-ngx: `podman compose up -d`
-7. Restore the database as described in [[#Backup and restore]]
+7. Restore the database as described in "Backup and restore"
+
 ### Direct database access
 If you used the `docker-compose.yml` file from my repository, it includes `pgadmin`. This makes it possible to directly access the paperless-ngx database:
+
 1. Open http://localhost:8888 in a browser
 2. Enter username `admin@example.com` and password `admin`
 3. Register the server (if not done yet):
@@ -69,3 +93,4 @@ If you used the `docker-compose.yml` file from my repository, it includes `pgadm
 		5. Username: `paperless`
 		6. Password: `paperless`
 4. Open the Server `paperless-ngx`
+ 
