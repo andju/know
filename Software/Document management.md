@@ -18,7 +18,7 @@ Even with more and more (electronic) paper coming in, I was initially skeptical 
 3. Download [these files](https://github.com/andju/docker-solutions/tree/main/paperless-ngx)  into the folder `paperless-ngx`
 	1. Alternatively you can download the files from the [original source](https://github.com/paperless-ngx/paperless-ngx/tree/main/docker/compose)
 4. Open a command line in the folder `paperless-ngx` and run `podman compose pull` and `podman compose up -d`
-5. Open http://localhost:8000 in a browser
+5. Open http://localhost:8000
 
 For first steps in paperless-ngx read this [article](https://itv4.de/paperless-ngx-mithilfe-von-docker-unter-windows-installieren/) 🇩🇪.
 
@@ -81,7 +81,7 @@ New versions of PostgreSQL are not compatible with old data files. Therefore you
 ### Direct database access
 If you used the `docker-compose.yml` file from my repository, it includes `pgadmin`. This makes it possible to directly access the paperless-ngx database:
 
-1. Open http://localhost:8888 in a browser
+1. Open http://localhost:8888
 2. Enter username `admin@example.com` and password `admin`
 3. Register the server (if not done yet):
 	1. Right click on Servers: Register ➡️ Server...
