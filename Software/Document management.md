@@ -17,7 +17,9 @@ Even with more and more (electronic) paper coming in, I was initially skeptical 
 	4. `media`: (documents)
 3. Download [these files](https://github.com/andju/docker-solutions/tree/main/paperless-ngx)  into the folder `paperless-ngx`
 	1. Alternatively you can download the files from the [original source](https://github.com/paperless-ngx/paperless-ngx/tree/main/docker/compose)
-4. Open a command line in the folder `paperless-ngx` and run `podman compose pull` and `podman compose up -d`
+4. Open a command line in the folder `paperless-ngx` and run
+	1. `podman compose pull`
+	2. `podman compose up -d`
 5. Open http://localhost:8000
 
 For first steps in paperless-ngx read this [article](https://itv4.de/paperless-ngx-mithilfe-von-docker-unter-windows-installieren/) 🇩🇪.
@@ -49,7 +51,7 @@ PAPERLESS_CONSUMER_RECURSIVE=true
 ### Auto-login
 ### Other
 
-- This [article](https://piep.tech/posts/automatic-password-removal-in-paperless-ngx/) describes how to automatically remove passwords while consuming new documents.
+- [This article](https://piep.tech/posts/automatic-password-removal-in-paperless-ngx/) describes how to automatically remove passwords while consuming new documents
 
 ## Maintenance
 ### Backup and restore
