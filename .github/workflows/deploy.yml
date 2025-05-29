@@ -31,7 +31,8 @@ jobs:
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0 \
             mkdocs-simple-hooks \
-            mkdocs-obsidian-bridge
+            mkdocs-obsidian-bridge \
+            mkdocs-open-in-new-tab
 
       # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes
