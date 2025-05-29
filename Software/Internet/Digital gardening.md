@@ -39,9 +39,10 @@ In your GitHub repository: Settings ➡️ Pages ➡️ Build and deployment:
 - `Source`: Deploy from a branch
 - `Branch`: `gh-pages` and  `/ (root)`
 ### Enhance your digital garden
+Congratulations: The digital garden is ready - now make it yours! I found the following tweaks helpful:
 
 - Add a `.gitignore` file (see [example](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)) to avoid adding unnecessary files to your repository.
-- Dan uses the \#publish-me tag to mark pages to be published, which mkdocs turns into a header. Therefore I add a property with a unique name (like `publish-page: true`) at the beginning of each page and replaced the occurrences of \#publish-me in `deploy.yml` with it.
+- Dan uses the \#publish-me tag to mark pages to be published, which mkdocs turns into a header. Therefore I add a property with a unique name (like `publish-page: true`) at the beginning of each page and replaced the occurrences of \#publish-me in `deploy.yml` with it. You can also add the property (together with other default elements) to a [template](https://help.obsidian.md/plugins/templates) (Note: The folder "Templates" is already excluded in `deploy.yml`).
 - In order to support the Obsidian features [Wikilinks](https://help.obsidian.md/links) and [callouts](https://help.obsidian.md/callouts), add the [mkdocs-obsidian-bridge](https://pypi.org/project/mkdocs-obsidian-bridge/) package to `deploy.yml` and the respective options to `mkdocs.yml`.
 - The [Obsidian Git Plugin](https://github.com/Vinzent03/obsidian-git) allows you to push your updates without leaving Obsidian.
 

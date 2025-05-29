@@ -7,7 +7,7 @@ Generate the package.xml file for a specific Org:
 
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
 - [Salesforce package.xml Builder](https://packagebuilder.herokuapp.com/)
-- Salesforce CLI command ([Source](https://www.asagarwal.com/generate-package-xml-for-your-salesforce-org-with-a-single-command/)): `sf project generate manifest --from-org <salesforce-org-alias>`
+- Salesforce CLI command ([source](https://www.asagarwal.com/generate-package-xml-for-your-salesforce-org-with-a-single-command/)): `sf project generate manifest --from-org <salesforce-org-alias>`
 
 Generic package.xml files:
 
@@ -23,7 +23,7 @@ Generic package.xml files:
 ## Profiles
 If a package.xml file includes only the type Profiles, it won't download the complete profile files: Sections like `pageAccesses`, `fieldPermissions` and `tabVisibilities` will be missing. In order for these to be included, additional metadata needs to be downloaded.
 
-The following package.xml file will download the most important profile information ([Source](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)):
+The following package.xml file will download the most important profile information ([source](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)):
 ```xml
 <?xml version=1.0 encoding=UTF-8 standalone=yes?>
 <Package xmlns=http://soap.sforce.com/2006/04/metadata>
