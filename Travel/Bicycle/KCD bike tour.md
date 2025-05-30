@@ -47,7 +47,7 @@ Also accommodations are sparse - but fortunately Hotel Ostende offers good value
 The route continues along the river Sazava.
 ### Sights
 - [Chateau Komorní Hrádek](https://en.wikipedia.org/wiki/Komorn%C3%AD_Hr%C3%A1dek): Stands on the site of a castle, that was built by Radzig Kobyla. You can only see the outside, since it is used by the military.
-- Ruin of Castle Zlenice
+- Ruins of Castle Zlenice
 
 ### Food
 With more populated places along the route, the number of restaurants increases. Be aware though, that your favorite might be closed.
