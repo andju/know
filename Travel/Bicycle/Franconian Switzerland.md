@@ -5,7 +5,7 @@ publish on andju-know: true
 
 
 > [!SUMMARY] Profile
-> ⏱️ 2 days 🌐 🇩🇪 Germany 📅 July 2023
+> ⏱️ 2 days 🇩🇪 Germany 📅 July 2023
 > 
 > [Pegnitz train station](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (40 min by [train](https://www.bahn.de/)  from Nürnberg) ➡️ [Bayreuth](https://www.openstreetmap.org/#map=16/49.89920/10.89551)
 ## Day 1: Pegnitz - Mengersdorf
