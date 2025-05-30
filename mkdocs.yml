@@ -1,7 +1,7 @@
 # Example of a more complicated config file for `MKDocs`
 # This one takes more action to handle formatting and theming
 
-site_name: Andju know
+site_name: andju-know
 theme:
   name: material
   features:
@@ -43,7 +43,7 @@ markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: andju
-      repo: know
+      repo: andju-know
       normalize_issue_symbols: true
   - pymdownx.superfences
   - pymdownx.tasklist:
