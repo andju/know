@@ -19,7 +19,7 @@ publish on andju-know: true
 ## Day 2: Mengersdorf - Bamberg
 
 ## Alternative route
-Initially I planned to overnight in Hollfeld, but had to change it due to a lack of accommodations.
+Initially I planned to overnight in Hollfeld, but had to change due to a lack of accommodations.
 
 - Day 1: [Pegnitz - Hollfeld](https://brouter.m11n.de/#map=11/49.8651/11.3873/standard,Waymarked_Trails-Cycling&lonlats=11.548288,49.758993;11.412327,49.77193;11.36025,49.788556;11.370206,49.82284;11.291553,49.936279&profile=trekking)
 - Day 2: [Hollfeld - Bamberg](https://brouter.m11n.de/#map=12/49.9301/11.1171/standard,Waymarked_Trails-Cycling&lonlats=11.291596,49.936102;11.218972,49.927135;10.892022,49.891608&profile=trekking)
