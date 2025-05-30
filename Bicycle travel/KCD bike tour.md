@@ -5,9 +5,9 @@ publish on andju-know: true
 
 June 2022
 
-The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. But even non-players will enjoy the bike ride through the beautiful, scarcely populated and untouristed landscape. A wounderful off-the-beaten-path experience.
+The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. [KCD bike tour.kmz](https://github.com/andju/andju-know/blob/main/Bicycle travel/attachments/KCD bike tour.kmz?raw=true) (which is based on the map in [this blog post](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)) shows which parts of the game world you will see.
 
-And how much of the game world will you see? You can see for yourself by opening [KCD bike tour.kmz](https://github.com/andju/andju-know/blob/main/Bicycle travel/attachments/KCD bike tour.kmz?raw=true) in Google Earth (it is based on the map in [this blog post](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)).
+But even non-players will enjoy the bike ride through the beautiful, scarcely populated and untouristed landscape. A wounderful off-the-beaten-path experience.
 
 ## Day 1: Český Šternberk - Chocerady
 
@@ -19,20 +19,21 @@ East of the train station you have to bypass a bar gate. For the next kilometer,
 
 ### Sights
 
-- *[Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle)*: Great view
-- *[Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou)*
-	- Pirkštejn
-	- Castle
-- *Church of Užice*: Was closed - if you want to see the inside, check for opening hours
-- *Ruins of Castle [Talmberk](https://en.wikipedia.org/wiki/Talmberk)*: If you want to see the ruins, you have to walk past a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
-- *[Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town))*
+- [Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle)* Great view
+- [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou)
+	- Pirkštejn Castle
+	- Rataje Castle
+- Church of Užice: Was closed - if you want to see the inside, check for opening hours
+- Ruins of Castle [Talmberk](https://en.wikipedia.org/wiki/Talmberk): If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
+- [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town))
 	- [Monastery](https://en.wikipedia.org/wiki/S%C3%A1zava_Monastery "Sázava Monastery")
 	- St. Martin's church
-- *Church of Rovná*: Was closed - if you want to see the inside, check for opening hours
-- *[Church of Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)*
+- [Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)
+	- Church of Rovná: Was closed - if you want to see the inside, check for opening hours
+	- Church of Saint John of Nepomuk: Stands on the former site of the castle
 
 ### Food and accommodation
-While it's great that the tour is "off the beaten track", finding a place to eat is tricky. You can have lunch near the train station in Sázava. I strongly recommend to go not too late for dinner in Chocerady (before 19:00h).
+While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h.
 
 Also accommodations are sparse - but fortunately Hotel Ostende offers good value for the price.
 
