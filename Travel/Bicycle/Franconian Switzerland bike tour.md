@@ -21,12 +21,12 @@ The beautiful landscape and three major climbs will take your breath away. The w
 ### Sights
 
 - [Pottenstein](https://en.wikipedia.org/wiki/Pottenstein,_Bavaria)
-	- Himmelsleiter: Observation tower with great view 
-	- [Castle](https://en.wikipedia.org/wiki/Pottenstein_Castle)	- 
+	- Himmelsleiter: Observation tower with great view
+	- [Castle](https://en.wikipedia.org/wiki/Pottenstein_Castle)
 - [Tüchersfeld](https://en.wikipedia.org/wiki/T%C3%BCchersfeld)
 - Rabenstein
 	- [Castle](https://en.wikipedia.org/wiki/Rabenstein_Castle_(Upper_Franconia))
-	- [Sophie Cave](https://en.wikipedia.org/wiki/Sophie_Cave): If the Sophie Cave is (already) closed, the Lugwig Cave "across the street" is worth a visit
+	- [Sophie Cave](https://en.wikipedia.org/wiki/Sophie_Cave): If the Sophie Cave is (already) closed you can visit the [Lugwig's Cave](https://de.wikipedia.org/wiki/Ludwigsh%C3%B6hle) "across the street"
 - [Waischenfeld](https://en.wikipedia.org/wiki/Waischenfeld)
 
 ### Food and accommodation
@@ -38,20 +38,20 @@ The Gutshof Mengersdorf offers comfortable and clean rooms in a historic buildin
 
 A low but steady rise until 3 km before Tiefenellern is rewarded with a speedy downhill. Landscape and villages remain beautiful - except for the outskirts of Bamberg.
 
-If you are looking for a more sporty route, try [this one](https://brouter.m11n.de/#map=12/49.9138/11.1310/standard&lonlats=11.375034,49.905435;11.218972,49.927135;11.166143,49.866511;10.895766,49.898969&pois=11.235634,49.914064,Brewery%3A%20Stadter;11.228993,49.88388,Brewery%3A%20Rothenbach;11.244754,49.879296,Brewery%3A%20Kathibr%C3%A4u;11.170435,49.863773,Brewery%3A%20Drei%20Krohnen;11.129462,49.882732,Brewery%3A%20Ott;11.074111,49.918585,Brewery%3A%20H%C3%B6nig;11.04701,49.916015,2%20Breweries;11.006176,49.926183,Brewery%3A%20Knoblach;11.031636,49.899665,Brewery%3A%20Melkendorf;11.228328,49.882756,Chateau%3A%20Unteraufse%C3%9F;11.172087,49.874275,Chateau%3A%20Greifenstein;10.94779,49.926896,Chateau%3A%20Seehof;11.009846,49.859433,Chateau%3A%20Wernsdorf;11.254882,49.960327,Chateau%3A%20Freienfels;11.218146,49.956523,Chateau%3A%20Wiesentfels;11.086954,49.919951,Cave%3A%20Tiefenellern;11.292572,49.938668,View%20point%3A%20St.%20Gangolf;11.223232,49.906585,View%20point%3A%20Himmelssteuberer;11.083467,49.921506,View%20point%3A%20Eulenstein;11.009996,49.912796,Church%3A%20Litzendorf;10.953841,49.933065,Church%3A%20Memmelsdorf&profile=trekking).
+If you are looking for a more sporty route, try [this one](https://brouter.m11n.de/#map=12/49.9138/11.1310/standard&lonlats=11.375034,49.905435;11.218972,49.927135;11.166143,49.866511;10.895766,49.898969&pois=11.235634,49.914064,Brewery%3A%20Stadter;11.228993,49.88388,Brewery%3A%20Rothenbach;11.244754,49.879296,Brewery%3A%20Kathibr%C3%A4u;11.170435,49.863773,Brewery%3A%20Drei%20Krohnen;11.129462,49.882732,Brewery%3A%20Ott;11.074111,49.918585,Brewery%3A%20H%C3%B6nig;11.04701,49.916015,2%20Breweries;11.006176,49.926183,Brewery%3A%20Knoblach;11.031636,49.899665,Brewery%3A%20Melkendorf;11.228328,49.882756,Chateau%3A%20Unteraufse%C3%9F;11.172087,49.874275,Chateau%3A%20Greifenstein;10.94779,49.926896,Chateau%3A%20Seehof;11.009846,49.859433,Chateau%3A%20Wernsdorf;11.254882,49.960327,Chateau%3A%20Freienfels;11.218146,49.956523,Chateau%3A%20Wiesentfels;11.086954,49.919951,Cave%3A%20Tiefenellern;11.292572,49.938668,View%20point%3A%20St.%20Gangolf;11.223232,49.906585,View%20point%3A%20Himmelssteuberer;11.083467,49.921506,View%20point%3A%20Eulenstein;11.009996,49.912796,Church%3A%20Litzendorf;10.953841,49.933065,Church%3A%20Memmelsdorf&profile=trekking) (54.3 km | 553 hm | -139 hm).
 ### Sights
 
 - [Hollfeld](https://en.wikipedia.org/wiki/Hollfeld)
 - [Church of Litzendorf](https://en.wikipedia.org/wiki/Litzendorf#Parish_church_of_St._Wenceslas)
 - [Chateau Seehof](https://en.wikipedia.org/wiki/Schloss_Seehof)
-- [Bamberg](https://en.wikipedia.org/wiki/Bamberg)
+- [Bamberg](https://en.wikipedia.org/wiki/Bamberg): The Old Town of Bamberg is an UNESCO World Heritage Site
 
 ### Food and accommodation
 Like on day one, you will find many breweries and restaurants along the way.
 
 Gasthaus Grasser in Huppendorf has excellent beer and food, Brauerei Hönig in Litzendorf offers cold beer in a beautiful beer garden and Brauerei und Gaststätte Hölzlein in Lohndorf a cozy inner courtyard.
 
-In Bamberg we slept in Hotel Andres: Clean rooms and they let us store the bicycles.
+In Bamberg Hotel Andres offers clean rooms and a bicycle storage.
 
 ## Alternative route
 Initially I planned to overnight in Hollfeld, but had to change due to a lack of accommodations.
