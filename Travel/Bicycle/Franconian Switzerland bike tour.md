@@ -6,7 +6,7 @@ publish on andju-know: true
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 July 2023
 > 
-> [Pegnitz train station](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (40 min by [train](https://www.bahn.de/)  from Nürnberg) ➡️ [Bamberg](https://www.openstreetmap.org/#map=16/49.89920/10.89551)
+> [Pegnitz train station](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (40 minutes by [train](https://www.bahn.de/)  from Nürnberg) ➡️ [Bamberg](https://www.openstreetmap.org/#map=16/49.89920/10.89551)
 
 Castles and caves, picturesque half-timbered villages, beautiful countryside and tons of breweries: Franconian Switzerland is a beautiful piece of earth. It also has a very good [website](https://www.fraenkische-schweiz.com/).
 
