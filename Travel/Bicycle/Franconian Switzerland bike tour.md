@@ -1,7 +1,7 @@
 ---
 publish on andju-know: true
 ---
-# Franconian Switzerland
+# 🇩🇪 Franconian Switzerland
 
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 July 2023

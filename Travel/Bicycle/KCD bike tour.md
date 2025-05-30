@@ -1,7 +1,7 @@
 ---
 publish on andju-know: true
 ---
-# Kingdom Come Deliverance
+# 🇨🇿 Kingdom Come Deliverance
 
 > [!SUMMARY] Profile
 > ⏱️ 1-2 days 🇨🇿 Czech Republic 📅 June 2022
