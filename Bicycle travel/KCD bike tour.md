@@ -3,12 +3,11 @@ publish on andju-know: true
 ---
 # Kingdom Come Deliverance
 
-A bike tour in June 2022.
+June 2022
 
 The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. But even non-players will enjoy the bike ride through the beautiful, scarcely populated and untouristed landscape. A wounderful off-the-beaten-path experience.
 
-And how much of the game world will you see? I created a Google Earth add-on (based on the map in [this blog post](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/):
-![[KCD bike tour.kmz]]
+And how much of the game world will you see? You can see for yourself by opening [KCD bike tour.kmz](https://github.com/andju/andju-know/blob/main/Bicycle travel/attachments/KCD bike tour.kmz?raw=true) in Google Earth (it is based on the map in [this blog post](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)).
 
 ## Day 1: Český Šternberk - Chocerady
 
@@ -32,6 +31,12 @@ East of the train station you have to bypass a bar gate. For the next kilometer,
 - *Church of Rovná*: Was closed - if you want to see the inside, check for opening hours
 - *[Church of Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)*
 
-### Food
+### Food and accommodation
 While it's great that the tour is "off the beaten track", finding a place to eat is tricky. You can have lunch near the train station in Sázava. I strongly recommend to go not too late for dinner in Chocerady (before 19:00h).
+
+Also accommodations are sparse - but fortunately Hotel Ostende offers good value for the price.
+
 ## Day 2: Chocerady - Týnec nad Sázavou
+
+### Sights
+- *[Chateau Komorní Hrádek](https://en.wikipedia.org/wiki/Komorn%C3%AD_Hr%C3%A1dek)*: Stands on the site of a castle, that was built by Radzig Kobyla. You can only see the outside, since it is used by the military.
