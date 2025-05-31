@@ -18,7 +18,16 @@ Description...
 | Day 2: Neusiedl am See 🇦🇹 | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9nVXpxPcUO9nHOPxPWBx9mvGRxPMNYfJygeAfjUHHf5qfR6gelfHlkfdxPDMbmZExO5UTfWggXkQTfXMk4nxOOpBmvnxOCoO9ndA1x69pU3SSx6e8a9mv3JxNl16&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015717051&ri=&ri=136217338&ri=&ri=1105217038&ri=&ri=&ri=35206841&ri=1190195917&ri=35206901&ri=&ri=1175986187&ri=1005953902&ri=12076879&ri=20362070&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8738959&y=48.2264083&z=10) | [GPX](https://github.com/andju/andju-know/blob/main/Travel/Bicycle/attachments/Four-country-tour-Day-2.gpx?raw=true) | 103.4 km | 103 hm | -49 hm              |
 | Day 3: Vasegerszeg 🇭🇺     | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9mv3BxNl-eeEPcqG54elWhgqreS5caixN6Y0h0PxMebc5BCxMNgTkI3xLvaTfbufj5CgCHf5DBV3G-xKm4ElhsboNl3FxK1QiVXf4Q&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=20362070&ri=&ri=1026780806&ri=1240076368&ri=149352757&ri=12012980&ri=40335368&ri=110347850&ri=&ri=&ri=1204567273&ri=1205853876&ri=79392&ri=25052301&ri=127028636&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8691041&y=47.7131910&z=10)                                | [GPX](https://github.com/andju/andju-know/blob/main/Travel/Bicycle/attachments/Four-country-tour-Day-3.gpx?raw=true) | 90.7 km  | 173 hm | 39 hm               |
  
+## Day 0: Brno
+If you want to arrive a day earlier, I recommend to use the Opportunity to see Brno.
+
+### Food and accommodation
+If you want a *unique* "hotel" experience I recommend staying in the 10-Z Bunker. This [article](https://www.websteiner.com/brno23_10zbunker.html) has a lot of impressions and a perfect summary. Personally I am glad I spent one night - though I wouldn't spend another one.
+
 ## Day 1: Břeclav 🇨🇿 - Malacky 🇸🇰
+
+
+If you are looking for a more sporty route that includes a church on an island, try [this one](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm). You just need to exit the train from Brno a few stations earlier in Pouzdřany.
 
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
 
