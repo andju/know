@@ -6,7 +6,9 @@ publish on andju-know: true
 > [!SUMMARY] Profile
 > ⏱️ 3 days 🇨🇿 Czech Republic 🇦🇹 Austria 🇸🇰 Slovakia 🇭🇺 Hungary 📅 May 2024
 > 
-> [Břeclav train station](https://www.openstreetmap.org/#map=16/48.75398/16.89325) 🇨🇿 (30 minutes by [train](https://www.cd.cz/)  from Brno) ➡️ [Vasegerszeg train station](https://www.openstreetmap.org/#map=16/47.37165/16.92413) 🇭🇺 (1.25 hours by [train](https://jegy.mav.hu/) from Győr)
+> From [Břeclav train station](https://www.openstreetmap.org/#map=16/48.75398/16.89325) 🇨🇿 (30 minutes by [train](https://www.cd.cz/)  from Brno)
+> 
+> To [Vasegerszeg train station](https://www.openstreetmap.org/#map=16/47.37165/16.92413) 🇭🇺 (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
 
 Description...
 

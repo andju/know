@@ -6,7 +6,9 @@ publish on andju-know: true
 > [!SUMMARY] Profile
 > ⏱️ 1-2 days 🇨🇿 Czech Republic 📅 June 2022
 > 
-> [Český Šternberk zast. train station](https://www.openstreetmap.org/#map=16/49.80843/14.92978) (2 hours by [train](https://www.cd.cz/)  from Prague) ➡️ [Týnec n. Sázavou train station](https://www.openstreetmap.org/#map=16/49.83423/14.59328) (1.5 hours by [train](https://www.cd.cz/)  from Prague)
+> From [Český Šternberk zast. train station](https://www.openstreetmap.org/#map=16/49.80843/14.92978) (2 hours by [train](https://www.cd.cz/)  from Prague)
+> 
+> To [Týnec n. Sázavou train station](https://www.openstreetmap.org/#map=16/49.83423/14.59328) (1.5 hours by [train](https://www.cd.cz/)  from Prague)
 
 The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. [KCD bike tour.kmz](https://github.com/andju/andju-know/blob/main/Travel/Bicycle/attachments/KCD bike tour.kmz?raw=true) (which is based on the map in [this blog post](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)) shows which parts of the game world you will see.
 

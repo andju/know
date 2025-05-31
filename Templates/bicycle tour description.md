@@ -2,7 +2,9 @@
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 Planning
 > 
-> Start ➡️ Finish
+> From: Start (2 hours by [train](https://www.bahn.de/) from City)
+> 
+> To: Finish (2 hour by [train](https://www.bahn.de/) from City)
 
 Description...
 
