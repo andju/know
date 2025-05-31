@@ -26,13 +26,7 @@ jobs:
       # Step 3: Install MkDocs and dependencies
       - name: Install MkDocs and Plugins
         run: |
-          pip install mkdocs \
-            mkdocs-material \
-            mkdocs-awesome-pages-plugin \
-            pymdown-extensions>=10.0 \
-            mkdocs-simple-hooks \
-            mkdocs-obsidian-bridge \
-            mkdocs-open-in-new-tab
+          pip install -r requirements.txt
 
       # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes
